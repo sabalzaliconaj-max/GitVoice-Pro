@@ -1,0 +1,7 @@
+{
+  "name": "GitVoice Assistant",
+  "description": "Un asistente de voz accesible para operaciones de Git, diseñado para desarrolladores con limitaciones motoras. Traduce comandos de voz en español a operaciones de terminal.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
